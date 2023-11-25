@@ -1,0 +1,49 @@
+body {
+    background-color: #b1acac;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .heading {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .customers {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .customer {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .customer-logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #ccc;
+    text-align: center;
+    line-height: 100px;
+    margin: 80px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .customer-review {
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgb(10, 10, 10);
+    margin-top: 30px;
+    border: 2px solid #ccc;
+    background-color: white; 
+  }
+  

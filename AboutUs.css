@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Inter:wght@600;700&family=Poppins:wght@200;400;500;700&family=Roboto:ital,wght@0,300;0,500;0,700;1,100&display=swap');
+
+body {
+    width: 1240px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(146, 145, 145);
+}
+
+.navbar {
+    background-color: #738e73;
+    /* Light Green Background */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: -27px;
+
+
+}
+
+.project-name {
+    color: #1de01d;
+
+
+    font-family: cursive;
+    font-size: 40px;
+    background-color: white;
+    width: 1279px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    height: 100px;
+    vertical-align: middle;
+    line-height: 100px;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #f9f8f8;
+    margin-right: 20px;
+
+}
+
+
+  h1{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ .p{
+    width: 80%;
+
+ }
+
+  
